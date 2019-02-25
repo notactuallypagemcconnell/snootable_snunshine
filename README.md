@@ -1,7 +1,7 @@
 # This is under development and this is basically a placeholder, check in later
 
 # Snootable Sunshine
-A development workflow for elixir so quick that its light a ray of sunshine directly to the bloodstream.
+A lo-fi development workflow for elixir so quick that its light a ray of sunshine directly to the bloodstream.
 
 ## Setup
 
